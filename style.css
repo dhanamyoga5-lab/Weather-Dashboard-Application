@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #e8f4ff;
+    padding: 30px;
+}
+
+h1 {
+    background: #2196f3;
+    color: white;
+    padding: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background: #2196f3;
+    color: white;
+    border: 0;
+    cursor: pointer;
+}
+
+#weather {
+    margin: 25px auto;
+    padding: 20px;
+    max-width: 350px;
+    background: white;
+    border-radius: 10px;
+}
+
+#error {
+    color: red;
+}
